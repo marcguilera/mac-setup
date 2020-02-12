@@ -41,7 +41,9 @@ brew cask install \
     google-photos-backup-and-sync \
     iterm2 \
     google-cloud-sdk \
-    dotnet
+    dotnet \
+    vlc \
+    virtualbox
 
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
