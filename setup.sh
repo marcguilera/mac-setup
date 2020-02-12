@@ -48,6 +48,8 @@ brew cask install \
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+exec bash --login
+
 code \
     --install-extension ms-python.python \
     --install-extension ms-vscode.csharp \
