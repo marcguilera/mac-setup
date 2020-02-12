@@ -17,7 +17,9 @@ brew install  \
     git \
     sqlite \
     go \
-    please
+    please \
+    awscli \
+    azure-cli
 
 brew cask install \
     docker \
@@ -38,7 +40,6 @@ brew cask install \
     google-drive-file-stream \
     google-photos-backup-and-sync \
     iterm2 \
-    awscli \
     google-cloud-sdk \
     dotnet
 
