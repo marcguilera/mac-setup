@@ -48,7 +48,7 @@ brew cask install \
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-./Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code \
+code \
     --install-extension ms-python.python \
     --install-extension ms-vscode.csharp \
     --install-extension ms-vscode.Go \
