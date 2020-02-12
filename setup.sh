@@ -51,6 +51,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
     --install-extension ms-vscode.csharp \
     --install-extension ms-vscode.Go \
     --install-extension ms-vscode-remote.remote-containers \
-    --install-extension please-build.plz-vscode
+    --install-extension please-build.plz-vscode \
     --install-extension fwcd.kotlin \
-    --install-extension leo-labs.dotnet
+    --install-extension leo-labs.dotnet \
+    --install-extension ms-azuretools.vscode-docker
