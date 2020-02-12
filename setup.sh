@@ -12,7 +12,7 @@ brew tap thought-machine/please
 
 brew install  \
     python \
-    node \ 
+    node \
     yarn \
     git \
     sqlite \
@@ -24,7 +24,7 @@ brew cask install \
     whatsapp \
     authy \
     visual-studio \
-    visual-stodio-code \
+    visual-studio-code \
     atom \
     firefox \
     google-chrome \

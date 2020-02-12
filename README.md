@@ -1,3 +1,3 @@
 ```
-curl -O - https://raw.githubusercontent.com/marcguilera/mac-setup/master/setup.sh | bash
+curl -s https://raw.githubusercontent.com/marcguilera/mac-setup/master/setup.sh | bash
 ```
